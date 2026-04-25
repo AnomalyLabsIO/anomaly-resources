@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 2,
+  "versionRanges": [
+    {
+      "versionLabel": "10.1.0 – 11.1.4",
+      "versionFrom": "10.1.0",
+      "versionTo": "11.1.4",
+      "unityVersion": "2019.4.16f1",
+      "metadataVersion": 24,
+      "compatibleBuildIds": [],
+      "cleanLauncherUrl": "https://raw.githubusercontent.com/AnomalyLabsIO/anomaly-resources/main/clean_launchers/2019.4.16f1/SCPSL.exe",
+      "cleanLauncherSha256": "754DD9EB549ABCB70C7B5BDB59C65E5C8672D8F2D259B3AAAEFBBFF305F80B22",
+      "patchMethods": [
+        {
+          "name": "CentralAuthManager$$Authentication",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 2
+        }
+      ],
+      "gameVersionMethod": {
+        "name": "GameCore.Version$$.cctor"
+      }
+    },
+    {
+      "versionLabel": "11.1.5 – 12.0.2",
+      "versionFrom": "11.1.5",
+      "versionTo": "12.0.2",
+      "unityVersion": "2019.4.16f1",
+      "metadataVersion": 24,
+      "compatibleBuildIds": [],
+      "cleanLauncherUrl": "https://raw.githubusercontent.com/AnomalyLabsIO/anomaly-resources/main/clean_launchers/2019.4.16f1/SCPSL.exe",
+      "cleanLauncherSha256": "754DD9EB549ABCB70C7B5BDB59C65E5C8672D8F2D259B3AAAEFBBFF305F80B22",
+      "patchMethods": [
+        {
+          "name": "LauncherCommunicator$$.cctor",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 4
+        },
+        {
+          "name": "LauncherAssetScanProgressBar$$Update",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 2
+        },
+        {
+          "name": "SimpleMenu.<StartLoad>d__10$$MoveNext",
+          "patchOffset": 226,
+          "patchData": "[NOP][NOP][NOP]EB1B",
+          "patchSize": 5
+        },
+        {
+          "name": "CentralAuthManager$$Authentication",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 2
+        }
+      ],
+      "gameVersionMethod": {
+        "name": "GameCore.Version$$.cctor"
+      }
+    },
+    {
+      "versionLabel": "13.0.0 – 13.5.1",
+      "versionFrom": "13.0.0",
+      "versionTo": "13.5.1",
+      "unityVersion": "2021.3.17f1",
+      "metadataVersion": 29,
+      "compatibleBuildIds": [],
+      "cleanLauncherUrl": "https://raw.githubusercontent.com/AnomalyLabsIO/anomaly-resources/main/clean_launchers/2021.3.17f1/SCPSL.exe",
+      "cleanLauncherSha256": "90BEEDA10F5676C3051CFD17AB9A777745B788AAAF3AE8C5A01B7DB6B4E84D7D",
+      "patchMethods": [
+        {
+          "name": "LauncherCommunicator$$.cctor",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 4
+        },
+        {
+          "name": "LauncherAssetScanProgressBar$$Update",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 2
+        },
+        {
+          "name": "SimpleMenu.<StartLoad>d__10$$MoveNext",
+          "patchOffset": 243,
+          "patchData": "[NOP][NOP][NOP]EB1B",
+          "patchSize": 5
+        },
+        {
+          "name": "CentralAuthManager$$Authentication",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3,
+          "nowarning": true
+        },
+        {
+          "name": "CentralAuth.CentralAuthManager$$Authentication",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3,
+          "patchifnotexists": "CentralAuthManager$$Authentication"
+        }
+      ],
+      "gameVersionMethod": {
+        "name": "GameCore.Version$$.cctor"
+      }
+    },
+    {
+      "versionLabel": "13.6.9 – 14.0.3",
+      "versionFrom": "13.6.9",
+      "versionTo": "14.0.3",
+      "unityVersion": "2021.3.17f1",
+      "metadataVersion": 29,
+      "compatibleBuildIds": [],
+      "cleanLauncherUrl": "https://raw.githubusercontent.com/AnomalyLabsIO/anomaly-resources/main/clean_launchers/2021.3.17f1/SCPSL.exe",
+      "cleanLauncherSha256": "90BEEDA10F5676C3051CFD17AB9A777745B788AAAF3AE8C5A01B7DB6B4E84D7D",
+      "patchMethods": [
+        {
+          "name": "LauncherCommunicator$$.cctor",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 2
+        },
+        {
+          "name": "SimpleMenu.<StartLoad>d__8$$MoveNext",
+          "patchOffset": 354,
+          "patchData": "[NOP]",
+          "patchSize": 9
+        },
+        {
+          "name": "SimpleMenu.<StartLoad>d__8$$MoveNext",
+          "patchOffset": 476,
+          "patchData": "B801000000",
+          "patchSize": 13
+        },
+        {
+          "name": "CentralAuth.CentralAuthManager$$Authentication",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3
+        }
+      ],
+      "gameVersionMethod": {
+        "name": "GameCore.Version$$.cctor"
+      }
+    },
+    {
+      "versionLabel": "14.1.0 – Current",
+      "versionFrom": "14.1.0",
+      "versionTo": null,
+      "unityVersion": "6000.0.43f1",
+      "metadataVersion": 31,
+      "compatibleBuildIds": [],
+      "cleanLauncherUrl": "https://raw.githubusercontent.com/AnomalyLabsIO/anomaly-resources/main/clean_launchers/6000.0.43f1/SCPSL.exe",
+      "cleanLauncherSha256": "CE5F2C48D93B6C8A6A7375A3085D7B55DE8C4BF5D6E454D3190FA6D395A817AD",
+      "patchMethods": [
+        {
+          "name": "LauncherCommunicator$$.cctor",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 2
+        },
+        {
+          "name": "SimpleMenu.<StartLoad>d__8$$MoveNext",
+          "patchOffset": 439,
+          "patchData": "[NOP]",
+          "patchSize": 9
+        },
+        {
+          "name": "SimpleMenu.<StartLoad>d__8$$MoveNext",
+          "patchOffset": 566,
+          "patchData": "B801000000",
+          "patchSize": 13
+        },
+        {
+          "name": "CentralAuth.CentralAuthManager$$Authentication",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3
+        },
+        {
+          "name": "CentralAuth.CentralAuthManager$$InitAuth",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3
+        },
+        {
+          "name": "CentralServer$$Init",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3
+        },
+        {
+          "name": "CentralServer$$RefreshServerList",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3
+        },
+        {
+          "name": "CentralAuth.CentralAuthManager$$RequestToken",
+          "patchOffset": 0,
+          "patchData": "[RET]",
+          "patchSize": 3
+        }
+      ],
+      "gameVersionMethod": {
+        "name": "GameCore.Version$$.cctor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "resources": {
+    "patching/unlicense.exe": {
+      "sha256": "33C27D4DEAAF54F832849D71CE65CE568EB2CA2BB1F24C21F9CF9F0DDE7AF955",
+      "size": 49496867
+    },
+    "patching/patchinfo.json": {
+      "sha256": "A44A7C084D5B2B2625BA2F061DB897A196F2024C588CA364C4EA8B9EF31BE0CF",
+      "size": 6594
+    },
+    "patching/melonloader.json": {
+      "sha256": "0238FDCCA7EE72685C668CF9B3CC100ECE2016C8F4C0441F7979A1B69677AB02",
+      "size": 179
+    },
+    "clean_launchers/2019.4.16f1/SCPSL.exe": {
+      "sha256": "754DD9EB549ABCB70C7B5BDB59C65E5C8672D8F2D259B3AAAEFBBFF305F80B22",
+      "size": 222208
+    },
+    "clean_launchers/2021.3.17f1/SCPSL.exe": {
+      "sha256": "90BEEDA10F5676C3051CFD17AB9A777745B788AAAF3AE8C5A01B7DB6B4E84D7D",
+      "size": 225792
+    },
+    "clean_launchers/6000.0.43f1/SCPSL.exe": {
+      "sha256": "CE5F2C48D93B6C8A6A7375A3085D7B55DE8C4BF5D6E454D3190FA6D395A817AD",
+      "size": 672256
+    }
+  }
+}
