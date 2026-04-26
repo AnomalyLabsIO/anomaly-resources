@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <Il2CppDumperDir Condition="'$(Il2CppDumperDir)' == ''">$(MSBuildThisFileDirectory)..\Anomaly\Anomaly.InstallerCore\Il2CppDumper</Il2CppDumperDir>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Iced" Version="1.21.0" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.5-beta1" />
+        <PackageReference Include="SteamKit2" Version="3.4.0" />
+        <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="10.0.6" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Reference Include="Il2CppDumper">
+            <HintPath>$(Il2CppDumperDir)\Il2CppDumper.dll</HintPath>
+            <Private>true</Private>
+        </Reference>
+        <Reference Include="Mono.Cecil">
+            <HintPath>$(Il2CppDumperDir)\Mono.Cecil.dll</HintPath>
+            <Private>true</Private>
+        </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="$(Il2CppDumperDir)\Mono.Cecil.Mdb.dll">
+            <Link>Il2CppDumper\Mono.Cecil.Mdb.dll</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+        <None Include="$(Il2CppDumperDir)\Mono.Cecil.Pdb.dll">
+            <Link>Il2CppDumper\Mono.Cecil.Pdb.dll</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+        <None Include="$(Il2CppDumperDir)\Mono.Cecil.Rocks.dll">
+            <Link>Il2CppDumper\Mono.Cecil.Rocks.dll</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+</Project>

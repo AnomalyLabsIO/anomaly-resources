@@ -24,6 +24,10 @@
     "clean_launchers/6000.0.43f1/SCPSL.exe": {
       "sha256": "CE5F2C48D93B6C8A6A7375A3085D7B55DE8C4BF5D6E454D3190FA6D395A817AD",
       "size": 672256
+    },
+    "builds/scpsl_builds.json": {
+      "sha256": "7B7B5F902218D170C049EFBB077F2FC33F6324FBFDD2BB4DC3D0EFB966E1D25E",
+      "size": 66406
     }
   }
 }

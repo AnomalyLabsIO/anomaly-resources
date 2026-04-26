@@ -1,0 +1,2408 @@
+{
+  "schemaVersion": 2,
+  "appId": 700330,
+  "depotId": 700331,
+  "generatedAt": "2026-04-26T01:54:41Z",
+  "entries": [
+    {
+      "manifestId": "6908321989902879983",
+      "buildId": "22856893",
+      "branch": "public",
+      "date": "2026-04-19T19:33:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5324969490270286401",
+      "buildId": "22805646",
+      "branch": "public",
+      "date": "2026-04-16T19:17:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1908547149790453098",
+      "buildId": "22657704",
+      "branch": "public",
+      "date": "2026-04-12T16:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2626430068037963395",
+      "buildId": "22559081",
+      "branch": "public",
+      "date": "2026-03-30T20:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7781702198086918852",
+      "buildId": "22540833",
+      "branch": "public",
+      "date": "2026-03-28T18:44:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1456694961717322917",
+      "buildId": "22438419",
+      "branch": "public",
+      "date": "2026-03-25T19:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5006715296364374142",
+      "buildId": "21861066",
+      "branch": "public",
+      "date": "2026-02-13T19:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1332035717259690860",
+      "buildId": "21456861",
+      "branch": "public",
+      "date": "2026-01-14T20:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7812474098017925794",
+      "buildId": "21390081",
+      "branch": "public",
+      "date": "2026-01-07T19:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5122523997254346935",
+      "buildId": "21293747",
+      "branch": "public",
+      "date": "2025-12-24T21:14:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2934624439688296118",
+      "buildId": "21268288",
+      "branch": "public",
+      "date": "2025-12-20T19:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3108077787345600804",
+      "buildId": "21186858",
+      "branch": "public",
+      "date": "2025-12-15T19:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6229040975061827876",
+      "buildId": "20805750",
+      "branch": "public",
+      "date": "2025-11-14T22:01:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6005234455961937939",
+      "buildId": "20651713",
+      "branch": "public",
+      "date": "2025-11-04T02:52:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6748934902957260965",
+      "buildId": "20628845",
+      "branch": "public",
+      "date": "2025-11-01T20:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8338414305365441231",
+      "buildId": "20526925",
+      "branch": "public",
+      "date": "2025-10-24T18:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5193942513083717793",
+      "buildId": "20042920",
+      "branch": "public",
+      "date": "2025-09-19T19:39:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1865534472463863459",
+      "buildId": "19962737",
+      "branch": "public",
+      "date": "2025-09-16T18:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6088111810334486155",
+      "buildId": "19444390",
+      "branch": "public",
+      "date": "2025-08-03T18:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8293000761719191761",
+      "buildId": "18788580",
+      "branch": "public",
+      "date": "2025-06-12T18:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2375449375458203658",
+      "buildId": "18504892",
+      "branch": "public",
+      "date": "2025-05-18T18:10:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7564052190338287522",
+      "buildId": "18495717",
+      "branch": "public",
+      "date": "2025-05-18T17:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8520131113043121812",
+      "buildId": "17770056",
+      "branch": "public",
+      "date": "2025-03-21T19:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8168311619114515704",
+      "buildId": "17032015",
+      "branch": "public",
+      "date": "2025-01-16T22:14:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1034578892121736154",
+      "buildId": "17005895",
+      "branch": "public",
+      "date": "2025-01-16T19:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7891771710312589076",
+      "buildId": "16895822",
+      "branch": "public",
+      "date": "2025-01-05T19:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4505056221238726907",
+      "buildId": "16863303",
+      "branch": "public",
+      "date": "2024-12-28T21:15:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3317316502393347261",
+      "buildId": "16826957",
+      "branch": "public",
+      "date": "2024-12-22T19:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7508218879632675342",
+      "buildId": "16169498",
+      "branch": "public",
+      "date": "2024-10-24T18:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8324447856335036777",
+      "buildId": "15251936",
+      "branch": "public",
+      "date": "2024-08-07T19:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4021586990975552130",
+      "buildId": "15100001",
+      "branch": "public",
+      "date": "2024-07-20T19:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8075123732647413632",
+      "buildId": "14642027",
+      "branch": "public",
+      "date": "2024-06-07T18:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3712623320448181407",
+      "buildId": "13815544",
+      "branch": "public",
+      "date": "2024-04-03T19:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1710956189551704575",
+      "buildId": "13569627",
+      "branch": "public",
+      "date": "2024-02-29T18:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7036787923052354866",
+      "buildId": "13352823",
+      "branch": "public",
+      "date": "2024-02-03T01:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8215036311175680425",
+      "buildId": "13316352",
+      "branch": "public",
+      "date": "2024-01-31T20:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8986258424813978862",
+      "buildId": "13036592",
+      "branch": "public",
+      "date": "2023-12-23T19:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3048472480362001411",
+      "buildId": "12692678",
+      "branch": "public",
+      "date": "2023-11-14T19:58:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2544164440201037126",
+      "buildId": "12562781",
+      "branch": "public",
+      "date": "2023-10-29T21:09:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "334699988703997165",
+      "buildId": "12561109",
+      "branch": "public",
+      "date": "2023-10-28T19:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7325922185799285446",
+      "buildId": "12562384",
+      "branch": "public",
+      "date": "2023-10-28T18:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2792022429073815906",
+      "buildId": "12118544",
+      "branch": "public",
+      "date": "2023-09-07T19:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "936489790038226301",
+      "buildId": "12051068",
+      "branch": "public",
+      "date": "2023-09-01T18:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6704132443472095167",
+      "buildId": "11591684",
+      "branch": "public",
+      "date": "2023-07-03T18:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6126205187152802267",
+      "buildId": "11526522",
+      "branch": "public",
+      "date": "2023-06-24T18:52:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3736254811987453431",
+      "buildId": "11431001",
+      "branch": "public",
+      "date": "2023-06-09T21:37:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8846682790161457503",
+      "buildId": "11132117",
+      "branch": "public",
+      "date": "2023-05-09T18:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1308280583771795584",
+      "buildId": "10718962",
+      "branch": "public",
+      "date": "2023-03-09T20:07:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8166678687184394276",
+      "buildId": "10352145",
+      "branch": "public",
+      "date": "2023-01-21T11:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "625949234836453457",
+      "buildId": "10334076",
+      "branch": "public",
+      "date": "2023-01-16T19:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4338880130488047548",
+      "buildId": "10318604",
+      "branch": "public",
+      "date": "2023-01-16T17:58:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7385350338025711119",
+      "buildId": "10291918",
+      "branch": "public",
+      "date": "2023-01-11T18:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2857661223516013318",
+      "buildId": "10257953",
+      "branch": "public",
+      "date": "2023-01-06T17:58:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1451481119772876525",
+      "buildId": "10240935",
+      "branch": "public",
+      "date": "2023-01-04T21:49:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4574081108245455218",
+      "buildId": "10195337",
+      "branch": "public",
+      "date": "2022-12-22T19:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8134045625090326899",
+      "buildId": "9616284",
+      "branch": "public",
+      "date": "2022-09-29T16:47:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7475840781559439379",
+      "buildId": "9592275",
+      "branch": "public",
+      "date": "2022-09-26T19:43:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6491495199074540365",
+      "buildId": "9448874",
+      "branch": "public",
+      "date": "2022-09-10T17:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4900168510435113700",
+      "buildId": "9417948",
+      "branch": "public",
+      "date": "2022-09-01T11:41:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6149635750456048820",
+      "buildId": "9409306",
+      "branch": "public",
+      "date": "2022-08-30T11:21:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8462655537922635167",
+      "buildId": "9380586",
+      "branch": "public",
+      "date": "2022-08-25T02:13:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6521384737727530599",
+      "buildId": "9230618",
+      "branch": "public",
+      "date": "2022-08-01T17:05:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6314094050373161553",
+      "buildId": "9166017",
+      "branch": "public",
+      "date": "2022-07-28T16:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7678487512233898301",
+      "buildId": "9152911",
+      "branch": "public",
+      "date": "2022-07-20T18:19:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8073941785023021409",
+      "buildId": "9114934",
+      "branch": "public",
+      "date": "2022-07-19T00:18:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6225005162273772449",
+      "buildId": "9100344",
+      "branch": "public",
+      "date": "2022-07-13T23:37:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3331716885635685411",
+      "buildId": "9040204",
+      "branch": "public",
+      "date": "2022-07-05T23:22:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8138522043238467826",
+      "buildId": "9009098",
+      "branch": "public",
+      "date": "2022-06-26T18:18:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "193310193313059048",
+      "buildId": "8997080",
+      "branch": "public",
+      "date": "2022-06-25T18:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2564549262493934942",
+      "buildId": "8862630",
+      "branch": "public",
+      "date": "2022-06-03T12:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3309526362343240897",
+      "buildId": "8841652",
+      "branch": "public",
+      "date": "2022-06-02T15:41:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6901042667568517593",
+      "buildId": "8838089",
+      "branch": "public",
+      "date": "2022-05-30T23:13:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7674067936993325747",
+      "buildId": "8831061",
+      "branch": "public",
+      "date": "2022-05-29T19:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7141588317675557238",
+      "buildId": "8800883",
+      "branch": "public",
+      "date": "2022-05-24T21:17:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6830122041506884841",
+      "buildId": "8742795",
+      "branch": "public",
+      "date": "2022-05-19T00:06:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2968862439571671389",
+      "buildId": "8680232",
+      "branch": "public",
+      "date": "2022-05-04T23:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4263544151683061252",
+      "buildId": "8637112",
+      "branch": "public",
+      "date": "2022-05-03T16:42:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2456092932804224326",
+      "buildId": "8538468",
+      "branch": "public",
+      "date": "2022-04-12T17:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3274841123143224184",
+      "buildId": "8399158",
+      "branch": "public",
+      "date": "2022-03-18T20:47:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1411876912018813999",
+      "buildId": "8389067",
+      "branch": "public",
+      "date": "2022-03-17T21:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4715744234363206454",
+      "buildId": "8383708",
+      "branch": "public",
+      "date": "2022-03-16T21:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5745289456538530560",
+      "buildId": "8310290",
+      "branch": "public",
+      "date": "2022-03-04T20:06:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8600816770715014884",
+      "buildId": "8302309",
+      "branch": "public",
+      "date": "2022-03-02T19:38:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6258986561530864513",
+      "buildId": "8232430",
+      "branch": "public",
+      "date": "2022-02-19T15:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7819653241494197399",
+      "buildId": "8085287",
+      "branch": "public",
+      "date": "2022-01-25T22:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8787302709176048575",
+      "buildId": "8030085",
+      "branch": "public",
+      "date": "2022-01-17T19:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7493629236436561204",
+      "buildId": "7907711",
+      "branch": "public",
+      "date": "2021-12-18T19:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1734931485039831972",
+      "buildId": "7817648",
+      "branch": "public",
+      "date": "2021-12-02T19:16:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1048801106569093509",
+      "buildId": "7810050",
+      "branch": "public",
+      "date": "2021-12-01T18:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "278873398872973782",
+      "buildId": "7603749",
+      "branch": "public",
+      "date": "2021-10-26T20:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3139740896290298018",
+      "buildId": "7595381",
+      "branch": "public",
+      "date": "2021-10-25T19:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "359025454932733590",
+      "buildId": "7595882",
+      "branch": "public",
+      "date": "2021-10-25T19:30:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4531559817783273895",
+      "buildId": "7590096",
+      "branch": "public",
+      "date": "2021-10-24T20:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6412920410451889431",
+      "buildId": "7559442",
+      "branch": "public",
+      "date": "2021-10-21T19:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3860287168206435699",
+      "buildId": "7494507",
+      "branch": "public",
+      "date": "2021-10-08T18:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5234953027646316386",
+      "buildId": "7434574",
+      "branch": "public",
+      "date": "2021-09-28T07:55:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5690531360890729894",
+      "buildId": "7359220",
+      "branch": "public",
+      "date": "2021-09-14T21:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3566901333967853490",
+      "buildId": "7351936",
+      "branch": "public",
+      "date": "2021-09-14T17:17:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6537376338590486043",
+      "buildId": "7324187",
+      "branch": "public",
+      "date": "2021-09-09T16:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4630209032041114803",
+      "buildId": "7193462",
+      "branch": "public",
+      "date": "2021-08-16T14:21:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3539807216260029364",
+      "buildId": "7186141",
+      "branch": "public",
+      "date": "2021-08-15T10:23:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4229669180410547084",
+      "buildId": "7103553",
+      "branch": "public",
+      "date": "2021-07-28T22:33:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7985761445338463736",
+      "buildId": "7101127",
+      "branch": "public",
+      "date": "2021-07-28T22:06:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3734661079751570213",
+      "buildId": "6992738",
+      "branch": "public",
+      "date": "2021-07-07T13:41:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "570053550270351135",
+      "buildId": "6510455",
+      "branch": "public",
+      "date": "2021-04-08T17:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1636758622295395604",
+      "buildId": "6475808",
+      "branch": "public",
+      "date": "2021-04-01T12:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "833506816945685587",
+      "buildId": "6419316",
+      "branch": "public",
+      "date": "2021-03-22T11:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7622799295509025569",
+      "buildId": "6403309",
+      "branch": "public",
+      "date": "2021-03-18T21:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4906490072897479231",
+      "buildId": "6371859",
+      "branch": "public",
+      "date": "2021-03-12T13:38:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6546388478181887242",
+      "buildId": "6362035",
+      "branch": "public",
+      "date": "2021-03-11T00:29:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8430259804788382210",
+      "buildId": "6343440",
+      "branch": "public",
+      "date": "2021-03-07T11:44:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4021991804565237492",
+      "buildId": "6342323",
+      "branch": "public",
+      "date": "2021-03-07T08:45:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6880895020545579636",
+      "buildId": "6318317",
+      "branch": "public",
+      "date": "2021-03-03T20:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "335493179677332915",
+      "buildId": "6283596",
+      "branch": "public",
+      "date": "2021-02-23T23:16:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3716128964620202111",
+      "buildId": "6240524",
+      "branch": "public",
+      "date": "2021-02-15T09:37:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7942996212946178286",
+      "buildId": "6235965",
+      "branch": "public",
+      "date": "2021-02-13T18:49:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8644005388640800317",
+      "buildId": "6220135",
+      "branch": "public",
+      "date": "2021-02-10T17:32:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6989719970432130459",
+      "buildId": "6219856",
+      "branch": "public",
+      "date": "2021-02-10T16:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7750340726720734037",
+      "buildId": "6128170",
+      "branch": "public",
+      "date": "2021-01-23T21:10:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6223367242256064196",
+      "buildId": "6052329",
+      "branch": "public",
+      "date": "2021-01-08T17:09:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4901196860528136185",
+      "buildId": "6056335",
+      "branch": "public",
+      "date": "2021-01-08T16:49:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3165864364811740857",
+      "buildId": "6050121",
+      "branch": "public",
+      "date": "2021-01-07T13:06:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "631493978816937676",
+      "buildId": "6046782",
+      "branch": "public",
+      "date": "2021-01-06T19:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8060827599112135076",
+      "buildId": "6020298",
+      "branch": "public",
+      "date": "2020-12-28T22:06:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7343233868355134570",
+      "buildId": "6004848",
+      "branch": "public",
+      "date": "2020-12-23T01:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3330460373056344071",
+      "buildId": "5857740",
+      "branch": "public",
+      "date": "2020-11-20T13:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1758573161302072344",
+      "buildId": "5855277",
+      "branch": "public",
+      "date": "2020-11-19T22:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6685532380585187447",
+      "buildId": "5798487",
+      "branch": "public",
+      "date": "2020-11-07T16:17:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2120264334119202861",
+      "buildId": "5797664",
+      "branch": "public",
+      "date": "2020-11-07T16:05:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8787982411116919428",
+      "buildId": "5779746",
+      "branch": "public",
+      "date": "2020-11-04T00:33:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1488128717569901429",
+      "buildId": "5779587",
+      "branch": "public",
+      "date": "2020-11-04T00:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "233275719022406010",
+      "buildId": "5742000",
+      "branch": "public",
+      "date": "2020-10-27T20:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2943695047864811766",
+      "buildId": "5728536",
+      "branch": "public",
+      "date": "2020-10-23T18:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4051947639075134857",
+      "buildId": "5564594",
+      "branch": "public",
+      "date": "2020-09-19T20:16:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3224655206188158628",
+      "buildId": "5542942",
+      "branch": "public",
+      "date": "2020-09-14T23:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8326472859548146131",
+      "buildId": "5407688",
+      "branch": "public",
+      "date": "2020-08-13T18:35:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5342902436675276477",
+      "buildId": "5362522",
+      "branch": "public",
+      "date": "2020-08-03T16:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6433805092299598103",
+      "buildId": "5324119",
+      "branch": "public",
+      "date": "2020-07-24T16:32:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8921359437193746517",
+      "buildId": "4525029",
+      "branch": "public",
+      "date": "2019-12-25T00:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8313805103622281799",
+      "buildId": "4519277",
+      "branch": "public",
+      "date": "2019-12-21T23:42:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2872011996962451918",
+      "buildId": "4519184",
+      "branch": "public",
+      "date": "2019-12-21T22:29:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2770466623095488309",
+      "buildId": "4517369",
+      "branch": "public",
+      "date": "2019-12-21T20:05:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8995041297698047116",
+      "buildId": "4495836",
+      "branch": "public",
+      "date": "2019-12-16T20:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2763191184725075339",
+      "buildId": "4455424",
+      "branch": "public",
+      "date": "2019-12-04T19:43:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6917946207489532109",
+      "buildId": "4447879",
+      "branch": "public",
+      "date": "2019-12-01T01:42:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2996374676097618839",
+      "buildId": "4444750",
+      "branch": "public",
+      "date": "2019-11-30T06:09:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5665064253894221553",
+      "buildId": "4444292",
+      "branch": "public",
+      "date": "2019-11-30T00:09:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2366631187512234141",
+      "buildId": "4439483",
+      "branch": "public",
+      "date": "2019-11-29T22:04:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1713721555727322325",
+      "buildId": "3698758",
+      "branch": "public",
+      "date": "2019-04-01T16:06:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2501219006302501544",
+      "buildId": "3426058",
+      "branch": "public",
+      "date": "2018-12-24T12:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5760237273158616615",
+      "buildId": "3423496",
+      "branch": "public",
+      "date": "2018-12-23T01:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "232646715872639227",
+      "buildId": "3405996",
+      "branch": "public",
+      "date": "2018-12-17T19:05:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3304891341803314741",
+      "buildId": "3316352",
+      "branch": "public",
+      "date": "2018-11-17T08:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7850201687032648601",
+      "buildId": "3265181",
+      "branch": "public",
+      "date": "2018-10-31T20:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5045969963048906479",
+      "buildId": "3248321",
+      "branch": "public",
+      "date": "2018-10-25T22:49:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5200582383697228805",
+      "buildId": "3248139",
+      "branch": "public",
+      "date": "2018-10-25T21:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2429226570676814372",
+      "buildId": "3245885",
+      "branch": "public",
+      "date": "2018-10-25T09:57:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5653396476121600928",
+      "buildId": "3149283",
+      "branch": "public",
+      "date": "2018-09-23T17:33:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1418342622934170830",
+      "buildId": "3149237",
+      "branch": "public",
+      "date": "2018-09-23T16:50:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2338917493254318904",
+      "buildId": "3148304",
+      "branch": "public",
+      "date": "2018-09-23T00:23:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "9133344935717090587",
+      "buildId": "3108722",
+      "branch": "public",
+      "date": "2018-09-10T21:05:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5129843390718790230",
+      "buildId": "3108464",
+      "branch": "public",
+      "date": "2018-09-10T19:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6376127292146458708",
+      "buildId": "3104269",
+      "branch": "public",
+      "date": "2018-09-08T18:09:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3783932444127680093",
+      "buildId": "3020347",
+      "branch": "public",
+      "date": "2018-08-09T20:20:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4175376101441785216",
+      "buildId": "3019950",
+      "branch": "public",
+      "date": "2018-08-09T17:34:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "776792956030232683",
+      "buildId": "3012445",
+      "branch": "public",
+      "date": "2018-08-07T16:58:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2377293815234063777",
+      "buildId": "2945866",
+      "branch": "public",
+      "date": "2018-07-14T17:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8807654374367541235",
+      "buildId": "2921881",
+      "branch": "public",
+      "date": "2018-07-05T18:24:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "822891462902488959",
+      "buildId": "2917029",
+      "branch": "public",
+      "date": "2018-07-04T04:02:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8489169785801766595",
+      "buildId": "2916267",
+      "branch": "public",
+      "date": "2018-07-03T21:30:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6705444165996262589",
+      "buildId": "2883675",
+      "branch": "public",
+      "date": "2018-06-21T17:49:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6089230184109558990",
+      "buildId": "2858776",
+      "branch": "public",
+      "date": "2018-06-13T16:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1944463424204810642",
+      "buildId": "2852424",
+      "branch": "public",
+      "date": "2018-06-11T16:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1226841551812954575",
+      "buildId": "2850257",
+      "branch": "public",
+      "date": "2018-06-10T17:50:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6881367852249463822",
+      "buildId": "2850189",
+      "branch": "public",
+      "date": "2018-06-10T16:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "793573531890397746",
+      "buildId": "2813477",
+      "branch": "public",
+      "date": "2018-05-28T21:45:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3312660988472942533",
+      "buildId": "2810906",
+      "branch": "public",
+      "date": "2018-05-27T20:16:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7089478779300548807",
+      "buildId": "2810690",
+      "branch": "public",
+      "date": "2018-05-27T17:01:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7960107926416647076",
+      "buildId": "2802659",
+      "branch": "public",
+      "date": "2018-05-24T11:17:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3800401292358127990",
+      "buildId": "2743254",
+      "branch": "public",
+      "date": "2018-05-03T16:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8538769302853836129",
+      "buildId": "2743035",
+      "branch": "public",
+      "date": "2018-05-03T15:10:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7734289575429951173",
+      "buildId": "2740131",
+      "branch": "public",
+      "date": "2018-05-02T17:05:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4089705714363909038",
+      "buildId": "2711204",
+      "branch": "public",
+      "date": "2018-04-22T14:27:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1430680441820474793",
+      "buildId": "2710079",
+      "branch": "public",
+      "date": "2018-04-21T18:59:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7988304374260463936",
+      "buildId": "2709997",
+      "branch": "public",
+      "date": "2018-04-21T18:04:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5722470823901679166",
+      "buildId": "2709908",
+      "branch": "public",
+      "date": "2018-04-21T17:01:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4963207822109185377",
+      "buildId": "2651125",
+      "branch": "public",
+      "date": "2018-04-01T22:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7924322849000851029",
+      "buildId": "2612426",
+      "branch": "public",
+      "date": "2018-03-17T14:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1094780948052913587",
+      "buildId": "2603875",
+      "branch": "public",
+      "date": "2018-03-14T17:37:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6305521410137727106",
+      "buildId": "2601334",
+      "branch": "public",
+      "date": "2018-03-13T22:50:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5340476039108990536",
+      "buildId": "2600640",
+      "branch": "public",
+      "date": "2018-03-13T17:45:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4436451560484006368",
+      "buildId": "2599941",
+      "branch": "public",
+      "date": "2018-03-13T13:41:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1863862998026904719",
+      "buildId": "2580996",
+      "branch": "public",
+      "date": "2018-03-06T18:38:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1911894972667061495",
+      "buildId": "2579399",
+      "branch": "public",
+      "date": "2018-03-06T14:14:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3391995159800307929",
+      "buildId": "2577263",
+      "branch": "public",
+      "date": "2018-03-05T17:26:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6222864872963109170",
+      "buildId": "2574777",
+      "branch": "public",
+      "date": "2018-03-04T16:29:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3360058928368621294",
+      "buildId": "2538641",
+      "branch": "public",
+      "date": "2018-02-19T18:01:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8336253036842483862",
+      "buildId": "2538129",
+      "branch": "public",
+      "date": "2018-02-19T14:21:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7919925985148146817",
+      "buildId": "2535887",
+      "branch": "public",
+      "date": "2018-02-18T11:54:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8447559976137776844",
+      "buildId": "2535201",
+      "branch": "public",
+      "date": "2018-02-17T23:11:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "909578321701118260",
+      "buildId": "2534534",
+      "branch": "public",
+      "date": "2018-02-17T16:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5632190379156489308",
+      "buildId": "2519237",
+      "branch": "public",
+      "date": "2018-02-12T17:17:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3733070982494935864",
+      "buildId": "2518829",
+      "branch": "public",
+      "date": "2018-02-12T15:10:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "506409333316155462",
+      "buildId": "2516386",
+      "branch": "public",
+      "date": "2018-02-11T15:11:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4267947003560278643",
+      "buildId": "2515131",
+      "branch": "public",
+      "date": "2018-02-10T18:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6191191080587959339",
+      "buildId": "2510289",
+      "branch": "public",
+      "date": "2018-02-08T23:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6778311848701135360",
+      "buildId": "2509382",
+      "branch": "public",
+      "date": "2018-02-08T17:12:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3535152494773281694",
+      "buildId": "2509350",
+      "branch": "public",
+      "date": "2018-02-08T16:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "362303170816520190",
+      "buildId": "2509320",
+      "branch": "public",
+      "date": "2018-02-08T16:42:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8261095758073449633",
+      "buildId": "2475175",
+      "branch": "public",
+      "date": "2018-01-27T23:22:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1542786346443784194",
+      "buildId": "2469025",
+      "branch": "public",
+      "date": "2018-01-25T16:12:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "741900598176344982",
+      "buildId": "2468846",
+      "branch": "public",
+      "date": "2018-01-25T15:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "6760228931014447124",
+      "buildId": "2468798",
+      "branch": "public",
+      "date": "2018-01-25T14:46:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "9022486817415419600",
+      "buildId": "2466908",
+      "branch": "public",
+      "date": "2018-01-25T00:48:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5600261062628073908",
+      "buildId": "2465718",
+      "branch": "public",
+      "date": "2018-01-24T17:39:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "9061783748990480547",
+      "buildId": "2465504",
+      "branch": "public",
+      "date": "2018-01-24T16:38:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "997536808415195315",
+      "buildId": "2465478",
+      "branch": "public",
+      "date": "2018-01-24T16:35:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3330909173148541525",
+      "buildId": "2446350",
+      "branch": "public",
+      "date": "2018-01-18T21:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4593743667006009511",
+      "buildId": "2445721",
+      "branch": "public",
+      "date": "2018-01-17T20:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "157394674069552015",
+      "buildId": "2442797",
+      "branch": "public",
+      "date": "2018-01-16T23:29:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2260626304777489155",
+      "buildId": "2442000",
+      "branch": "public",
+      "date": "2018-01-16T18:30:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8704670135263013253",
+      "buildId": "2435437",
+      "branch": "public",
+      "date": "2018-01-13T21:47:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "7546338187824120747",
+      "buildId": "2435414",
+      "branch": "public",
+      "date": "2018-01-13T21:18:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "5290777513109969920",
+      "buildId": "2435323",
+      "branch": "public",
+      "date": "2018-01-13T19:56:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1389822928283419845",
+      "buildId": "2435195",
+      "branch": "public",
+      "date": "2018-01-13T18:04:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "3978666906123081625",
+      "buildId": "2420612",
+      "branch": "public",
+      "date": "2018-01-08T16:16:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8717345925941070928",
+      "buildId": "2418944",
+      "branch": "public",
+      "date": "2018-01-07T22:15:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2942324919263085114",
+      "buildId": "2405736",
+      "branch": "public",
+      "date": "2017-12-31T19:28:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4164153536032400876",
+      "buildId": "2404999",
+      "branch": "public",
+      "date": "2017-12-30T23:31:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4390670062645198238",
+      "buildId": "2404937",
+      "branch": "public",
+      "date": "2017-12-30T22:44:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1536263813189958642",
+      "buildId": "2404839",
+      "branch": "public",
+      "date": "2017-12-30T20:21:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2040247759239224896",
+      "buildId": "2404810",
+      "branch": "public",
+      "date": "2017-12-30T19:03:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "4813297169955950697",
+      "buildId": "2404800",
+      "branch": "public",
+      "date": "2017-12-30T18:32:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2468544573118789168",
+      "buildId": "2404725",
+      "branch": "public",
+      "date": "2017-12-30T18:19:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "2879805109579586128",
+      "buildId": "2404752",
+      "branch": "public",
+      "date": "2017-12-30T18:18:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8957298455449955182",
+      "buildId": "2404774",
+      "branch": "public",
+      "date": "2017-12-30T17:52:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8020383514098472687",
+      "buildId": "2404679",
+      "branch": "public",
+      "date": "2017-12-30T15:51:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "8888385690783672174",
+      "buildId": "2404074",
+      "branch": "public",
+      "date": "2017-12-30T01:22:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1004613867050610106",
+      "buildId": "2403590",
+      "branch": "public",
+      "date": "2017-12-29T17:27:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    },
+    {
+      "manifestId": "1371744605153237461",
+      "buildId": "2403475",
+      "branch": "public",
+      "date": "2017-12-29T16:00:00Z",
+      "gameVersion": null,
+      "resolutionPath": null,
+      "discoverySource": "csv-backfill",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+name: SCP:SL manifest tracker
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: 'Skip the commit step; print what would happen.'
+        type: boolean
+        default: false
+      force-resolve-manifest:
+        description: 'Re-resolve a single manifest id (debug aid).'
+        type: string
+        required: false
+  repository_dispatch:
+    types: [manifest-tracker-trigger]
+
+concurrency:
+  group: manifest-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: windows-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout anomaly-resources
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 1
+
+      - name: Sparse-checkout Il2CppDumper from AnomalyLabsIO/Anomaly
+        uses: actions/checkout@v4
+        with:
+          repository: AnomalyLabsIO/Anomaly
+          path: _anomaly
+          sparse-checkout: |
+            Anomaly.InstallerCore/Il2CppDumper
+          sparse-checkout-cone-mode: false
+          fetch-depth: 1
+
+      - name: Setup .NET 9
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Cache NuGet packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.nuget/packages
+          key: nuget-${{ runner.os }}-${{ hashFiles('tools/manifest-analyzer/**/*.csproj') }}
+          restore-keys: |
+            nuget-${{ runner.os }}-
+
+      - name: Build ManifestAnalyzer
+        shell: pwsh
+        run: |
+          dotnet build tools/manifest-analyzer/ManifestAnalyzer.csproj `
+            -c Release `
+            -p:Il2CppDumperDir="${{ github.workspace }}/_anomaly/Anomaly.InstallerCore/Il2CppDumper"
+
+      - name: Discover and resolve manifests
+        id: run
+        shell: pwsh
+        env:
+          STEAM_USERNAME:        ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD:        ${{ secrets.STEAM_PASSWORD }}
+          STEAM_SHARED_SECRET:   ${{ secrets.STEAM_SHARED_SECRET }}
+          ANOMALY_UNLICENSE_PATH: ${{ github.workspace }}\patching\unlicense.exe
+          DISCORD_WEBHOOK_URL:   ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          $args = @(
+            '--tracker', 'builds/scpsl_builds.json',
+            '--discover',
+            '--branches', 'public,beta',
+            '--bump-manifest', 'manifest.json',
+            '--discord-webhook-env', 'DISCORD_WEBHOOK_URL'
+          )
+          if ('${{ inputs.dry-run }}' -eq 'true') {
+            $args += '--dry-run'
+          }
+          if ('${{ inputs.force-resolve-manifest }}' -ne '') {
+            $args += @('--force-resolve-manifest', '${{ inputs.force-resolve-manifest }}')
+          }
+
+          dotnet run --no-build --project tools/manifest-analyzer/ManifestAnalyzer.csproj -c Release -- @args
+          $exitCode = $LASTEXITCODE
+          Write-Host "::notice::ManifestAnalyzer exit code: $exitCode"
+
+          if ($exitCode -eq 78) {
+            Write-Error "Steam authentication failed. Rotate STEAM_USERNAME / STEAM_PASSWORD / STEAM_SHARED_SECRET secrets."
+            exit 78
+          }
+          if ($exitCode -ne 0) {
+            exit $exitCode
+          }
+
+      - name: Commit changes
+        if: success() && inputs.dry-run != true
+        shell: bash
+        run: |
+          git config user.name "anomaly-tracker[bot]"
+          git config user.email "anomaly-tracker@users.noreply.github.com"
+
+          git pull --rebase
+
+          if git diff --quiet builds/scpsl_builds.json manifest.json; then
+            echo "No tracker changes to commit."
+            exit 0
+          fi
+
+          summary="${{ steps.run.outputs.summary }}"
+          if [ -z "$summary" ]; then
+            summary="updated builds/scpsl_builds.json"
+          fi
+
+          git add builds/scpsl_builds.json manifest.json
+          git commit -m "tracker: $summary"
+          git push
